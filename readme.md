@@ -9,13 +9,13 @@ This project is built for creators to make **wholesome, halal, and positive cont
 
 ## We Social
 <div align="center">
-    <a href="https://www.instagram.com/itclub48/" target="_blank">
+    <a href="" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
     </a>
-    <a href="https://www.instagram.com/itclub48/" target="_blank">
+    <a href="https://mottifx.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/website-emerald?url=https%3A//shields.io/&label=MottiFx&logo=gnome%20terminal&style=for-the-badge" height="25" alt="website logo"  />
     </a>
-    <a href="https://www.instagram.com/itclub48/" target="_blank">
+    <a href="" target="_blank">
         <img src="https://img.shields.io/discord/308323056592486420?style=for-the-badge&logo=discord&label=discord&logoColor=white&color=emerald" height="25" alt="discord logo"  />
     </a>
 </div>
