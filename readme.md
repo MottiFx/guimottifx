@@ -1,22 +1,10 @@
 # MottiFx Video Editor
-MottiFx is free software video editor for other platforms but is currently in its early development stage, so this project still development and our vision is to empower creators to produce "halal," positive, and wholesome content for school projects, companies, and personal use.
+MottiFx is a free, open-source video editor designed for cross-platform creative work. Currently in its early development stage, this project exists to empower creators to produce positive, wholesome, and ethical content. We strive to be the tool of choice for inspiring educational projects, honest corporate branding, humanitarian stories, and creative works that uplift the community. 
 
-## Creative Protocol: Join The Mission
-Professional software should be accessible to everyone. By choosing **MottiFx**, you're not just getting a tool—you're choosing to build your career on a **legal and ethical foundation**.
+Build your career on a professional and clean foundation—transforming technology into a force for good, one constructive story at a time.
 
-### User Pledge
-By using this software, you join us in a commitment to a cleaner and more purposeful creative industry:
-
-* **Produce Halal & Beneficial Media**
-  Commit to creating content that is *Halal-compliant*, inspiring, and brings positive value to the global audience.
-* **Maintain Creative Integrity**
-  Avoid producing deceptive, harmful, or unethical media that violates universal moral standards.
-* **Support Legal Foundations**
-  Choose clean, open-source software like MottiFx to stop the cycle of piracy and build a career filled with blessings.
-
----
-
-> **Our Vision:** This project is built for creators to make **wholesome, halal, and positive content**. We believe technology should be a force for good. By using this software, you join us in a commitment to keep the creative world ethical and the source code free for the community.
+## Our Vision
+This project is built to empower creators to produce wholesome and positive media. We believe technology should be a force for good, providing a legal and ethical foundation for everyone to build their career with integrity.
 
 ## We Social
 <div align="center">
