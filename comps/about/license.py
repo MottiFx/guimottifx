@@ -39,7 +39,7 @@ class LicenseProduct(QScrollArea):
 
     def loadEula(self):    
         try:
-           with open("license/license.txt",mode="r",encoding="utf-8") as f:
+           with open("styles/license.txt",mode="r",encoding="utf-8") as f:
              content = f.read()
              self.elattl.setText(content)
         except FileNotFoundError:
