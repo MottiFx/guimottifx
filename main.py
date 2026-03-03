@@ -11,6 +11,7 @@ from guimottifx.comps.about import thirdlib,license
 from guimottifx.comps.edit.render import RenderGui
 from guimottifx.comps.help import keyboardsc
 from guimottifx.comps.setup import SetupApp
+from guimottifx.utils.resource import resource_path
 from styles.styles import CustomStyle
 from procmottifx.systems.infile.history import del_allhistory, get_history
 from procmottifx.systems.parsing.cacheframe import delall_chcfrm
@@ -27,13 +28,6 @@ x,y = int((monitor.width - w)/2),int((monitor.height-h)/2)
 
 top = [effectset.EffectSet,preview.Preview,menufx.MenuFx]
 bottom = [layerset.LayerSettings,timeline.TimeLine,assetbar.AssetBar]
-
-def resource_path(relative_path):
-    try:
-        base_path = sys._MEIPASS
-    except Exception:
-        base_path = os.path.abspath(".")
-    return os.path.join(base_path, relative_path)
 
 
 class RootApp(QMainWindow):

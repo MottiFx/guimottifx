@@ -3,6 +3,8 @@ from PySide6.QtCore import *
 from PySide6.QtGui import *
 from screeninfo import get_monitors
 
+from guimottifx.utils.resource import resource_path
+
 monitor = get_monitors()[0]
 w,h = int(monitor.width/2.2), int(monitor.height/1.5)
 x,y = int((monitor.width - w)/2),int((monitor.height-h)/2)
@@ -38,8 +40,9 @@ class LicenseProduct(QScrollArea):
         main_lyout.addWidget(self.elattl,0)
 
     def loadEula(self):    
+        ps = resource_path("styles/license.txt")
         try:
-           with open("styles/license.txt",mode="r",encoding="utf-8") as f:
+           with open(ps,mode="r",encoding="utf-8") as f:
              content = f.read()
              self.elattl.setText(content)
         except FileNotFoundError:
