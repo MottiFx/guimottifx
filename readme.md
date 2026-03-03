@@ -3,8 +3,7 @@ MottiFx is a free, open-source video editor designed for cross-platform creative
 
 Build your career on a professional and clean foundation—transforming technology into a force for good, one constructive story at a time.
 
-## Our Vision
-This project is built to empower creators to produce wholesome and positive media. We believe technology should be a force for good, providing a legal and ethical foundation for everyone to build their career with integrity.
+
 
 ## We Social
 <div align="center">
